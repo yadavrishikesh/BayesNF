@@ -106,15 +106,10 @@ data_for_bayesnf_new<- function(data, pred_type, missing_props){
                                      data, "_pred-type_", pred_type, "_miss_prop_", missing_props, ".csv"),  row.names = TRUE)
 }
 
-# <<<<<<< HEAD
-# data_for_bayesnf_new(data ="Eco_2017-2022", pred_type = "spatIntpl", missing_props  = 50)
-# data_for_bayesnf_new(data ="Eco_2017-2022", pred_type = "spatIntpl", missing_props = 60)
-# data_for_bayesnf_new(data ="Eco_2017-2022", pred_type = "spatIntpl", missing_props = 80)
-# =======
-# data_for_bayesnf_new(data ="Eco_2017-2022_", pred_type = "spatIntpl", missing_props  = 50)
-# data_for_bayesnf_new(data ="Eco_2017-2022_", pred_type = "spatIntpl", missing_props = 60)
-# data_for_bayesnf_new(data ="Eco_2017-2022_", pred_type = "spatIntpl", missing_props = 80)
-# >>>>>>> 95d00df (new data added)
+# data_for_bayesnf_new(data ="Eco_2021-2022", pred_type = "spatIntpl", missing_props  = 50)
+# data_for_bayesnf_new(data ="Eco_2021-2022", pred_type = "spatIntpl", missing_props = 60)
+# data_for_bayesnf_new(data ="Eco_2022-2022", pred_type = "spatIntpl", missing_props = 80)
+
 
 
 
