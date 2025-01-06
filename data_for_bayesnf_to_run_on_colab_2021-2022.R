@@ -108,8 +108,7 @@ data_for_bayesnf_new<- function(data, pred_type, missing_props){
 
 # data_for_bayesnf_new(data ="Eco_2021-2022", pred_type = "spatIntpl", missing_props  = 50)
 # data_for_bayesnf_new(data ="Eco_2021-2022", pred_type = "spatIntpl", missing_props = 60)
-# data_for_bayesnf_new(data ="Eco_2022-2022", pred_type = "spatIntpl", missing_props = 80)
-
+# data_for_bayesnf_new(data ="Eco_2021-2022", pred_type = "spatIntpl", missing_props = 80)
 
 
 
